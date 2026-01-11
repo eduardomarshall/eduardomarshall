@@ -1,4 +1,4 @@
-<h1 align="center">Olá, Eu sou Eduardo!</h1>
+<h1 align="center">Olá, Eu sou o Eduardo!</h1>
 <h3 align="left">👨🏻‍💻 Estudante de TI focado em desenvolvimento backend.</h3>
 <h3 align="left">🌐 Atualmente estudando TypeScript/Python.</h3>
 
